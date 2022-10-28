@@ -1,0 +1,28 @@
+.navbar-nav .nav-link.active{
+    color:rgb(255, 0, 106);
+}
+
+.btn-azul{
+    background-color: rgb(18, 146, 231);
+    border-radius: 20px;
+    color: rgb(249, 249, 252) ;
+}
+
+.card-title{
+    text-align: center;
+    color:blue;
+}
+
+
+
+.btn-azul:hover{
+    background-color: rgb(236, 240, 10);
+    border:3px solid black;
+    border-radius: 20px;
+    color: azul;
+    font-size: 1rem;
+}
+
+.bg-gris{
+    background-color: rgb(141, 250, 223);
+}
